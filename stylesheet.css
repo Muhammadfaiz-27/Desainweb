@@ -1,0 +1,23 @@
+
+span {
+	color: blue;
+	border: 2px solid black;
+}
+.list {
+	color: red;
+	border: 2px solid blue;
+}
+p {
+	padding: 5px;
+	padding-left: 10px;
+}
+box {
+	color: yellow;
+	padding: 10px;
+	margin: 30px;
+	width: 70%;
+}
+body {
+	border: 5px solid black;
+	background: #eeeeee;
+}
